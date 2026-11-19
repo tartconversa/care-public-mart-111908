@@ -1,0 +1,14 @@
+[
+  {
+    "change_id": "C1",
+    "row_id": "R1",
+    "new_village": "V2",
+    "received_at": "2026-11-03T09:00:00+08:00"
+  },
+  {
+    "change_id": "C2",
+    "row_id": "R15",
+    "new_village": "V2",
+    "received_at": "2026-11-03T09:00:00+08:00"
+  }
+]

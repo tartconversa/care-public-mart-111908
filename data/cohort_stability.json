@@ -1,0 +1,14 @@
+[
+  {
+    "cohort": "registered",
+    "month": "2026-10",
+    "membership_version": "M1",
+    "stable_with": []
+  },
+  {
+    "cohort": "registered",
+    "month": "2026-11",
+    "membership_version": "M2",
+    "stable_with": []
+  }
+]

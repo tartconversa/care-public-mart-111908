@@ -1,0 +1,47 @@
+[
+  {
+    "request_id": "Q1",
+    "group_by": [
+      "village"
+    ],
+    "filters": {},
+    "measures": [
+      "persons",
+      "amount_fen"
+    ],
+    "cohort": "registered",
+    "month": "2026-10"
+  },
+  {
+    "request_id": "Q2",
+    "group_by": [
+      "village",
+      "age_band"
+    ],
+    "filters": {},
+    "measures": [
+      "persons",
+      "amount_fen"
+    ],
+    "cohort": "registered",
+    "month": "2026-10"
+  },
+  {
+    "request_id": "Q3",
+    "group_by": [
+      "service"
+    ],
+    "filters": {
+      "village": [
+        "V1",
+        "V2"
+      ]
+    },
+    "measures": [
+      "persons",
+      "services"
+    ],
+    "cohort": "registered",
+    "month": "2026-10"
+  }
+]

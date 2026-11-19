@@ -1,0 +1,80 @@
+{
+  "synthetic": true,
+  "files": [
+    {
+      "path": "data/service_details.json",
+      "format": "json",
+      "sha256": "39fbb3cd3e04c7a6a1316bca77bdd2f4ee4c42f0654dd0903ee89279eb300e22",
+      "rows": 28,
+      "fields": [
+        "row_id",
+        "person_id",
+        "village",
+        "age_band",
+        "service",
+        "month",
+        "amount_fen"
+      ],
+      "references": []
+    },
+    {
+      "path": "data/requests.json",
+      "format": "json",
+      "sha256": "8217b85c44b906f52825d745d47496a47e1cbce2ea35a9b398962863a3c9c2ff",
+      "rows": 3,
+      "fields": [
+        "request_id",
+        "group_by",
+        "filters",
+        "measures",
+        "cohort",
+        "month"
+      ],
+      "references": []
+    },
+    {
+      "path": "data/coverage.json",
+      "format": "json",
+      "sha256": "c9f83271da69dedbffeecb5d19c0d4d73078c1233077a4fa99948eefa61bab3a",
+      "rows": 3,
+      "fields": [
+        "village",
+        "month",
+        "complete"
+      ],
+      "references": []
+    },
+    {
+      "path": "data/cohort_stability.json",
+      "format": "json",
+      "sha256": "bf89adc9d6bafb2c6c778c1598e87f0480901efdeab56ff2ef2822cd356dc340",
+      "rows": 2,
+      "fields": [
+        "cohort",
+        "month",
+        "membership_version",
+        "stable_with"
+      ],
+      "references": []
+    },
+    {
+      "path": "data/corrections.json",
+      "format": "json",
+      "sha256": "c2f036826afe2dd30fd204f922061a938a2e14fc57e25620394d5d14cbc36c30",
+      "rows": 2,
+      "fields": [
+        "change_id",
+        "row_id",
+        "new_village",
+        "received_at"
+      ],
+      "references": [
+        {
+          "field": "row_id",
+          "target": "data/service_details.json",
+          "target_field": "row_id"
+        }
+      ]
+    }
+  ]
+}

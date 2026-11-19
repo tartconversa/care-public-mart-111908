@@ -1,0 +1,254 @@
+[
+  {
+    "row_id": "R1",
+    "person_id": "P1",
+    "village": "V1",
+    "age_band": "65-74",
+    "service": "meal",
+    "month": "2026-10",
+    "amount_fen": 501
+  },
+  {
+    "row_id": "R2",
+    "person_id": "P2",
+    "village": "V2",
+    "age_band": "75+",
+    "service": "meal",
+    "month": "2026-10",
+    "amount_fen": 502
+  },
+  {
+    "row_id": "R3",
+    "person_id": "P3",
+    "village": "V3",
+    "age_band": "65-74",
+    "service": "meal",
+    "month": "2026-10",
+    "amount_fen": 503
+  },
+  {
+    "row_id": "R4",
+    "person_id": "P4",
+    "village": "V1",
+    "age_band": "75+",
+    "service": "visit",
+    "month": "2026-10",
+    "amount_fen": 504
+  },
+  {
+    "row_id": "R5",
+    "person_id": "P5",
+    "village": "V2",
+    "age_band": "65-74",
+    "service": "meal",
+    "month": "2026-10",
+    "amount_fen": 505
+  },
+  {
+    "row_id": "R6",
+    "person_id": "P6",
+    "village": "V3",
+    "age_band": "75+",
+    "service": "meal",
+    "month": "2026-10",
+    "amount_fen": 506
+  },
+  {
+    "row_id": "R7",
+    "person_id": "P7",
+    "village": "V1",
+    "age_band": "65-74",
+    "service": "meal",
+    "month": "2026-10",
+    "amount_fen": 507
+  },
+  {
+    "row_id": "R8",
+    "person_id": "P8",
+    "village": "V2",
+    "age_band": "75+",
+    "service": "visit",
+    "month": "2026-10",
+    "amount_fen": 508
+  },
+  {
+    "row_id": "R9",
+    "person_id": "P9",
+    "village": "V3",
+    "age_band": "65-74",
+    "service": "meal",
+    "month": "2026-10",
+    "amount_fen": 509
+  },
+  {
+    "row_id": "R10",
+    "person_id": "P10",
+    "village": "V1",
+    "age_band": "75+",
+    "service": "meal",
+    "month": "2026-10",
+    "amount_fen": 510
+  },
+  {
+    "row_id": "R11",
+    "person_id": "P11",
+    "village": "V2",
+    "age_band": "65-74",
+    "service": "meal",
+    "month": "2026-10",
+    "amount_fen": 511
+  },
+  {
+    "row_id": "R12",
+    "person_id": "P12",
+    "village": "V3",
+    "age_band": "75+",
+    "service": "visit",
+    "month": "2026-10",
+    "amount_fen": 512
+  },
+  {
+    "row_id": "R13",
+    "person_id": "P13",
+    "village": "V1",
+    "age_band": "65-74",
+    "service": "meal",
+    "month": "2026-10",
+    "amount_fen": 513
+  },
+  {
+    "row_id": "R14",
+    "person_id": "P14",
+    "village": "V2",
+    "age_band": "75+",
+    "service": "meal",
+    "month": "2026-10",
+    "amount_fen": 514
+  },
+  {
+    "row_id": "R15",
+    "person_id": "P1",
+    "village": "V1",
+    "age_band": "65-74",
+    "service": "meal",
+    "month": "2026-10",
+    "amount_fen": 515
+  },
+  {
+    "row_id": "R16",
+    "person_id": "P2",
+    "village": "V2",
+    "age_band": "75+",
+    "service": "visit",
+    "month": "2026-10",
+    "amount_fen": 516
+  },
+  {
+    "row_id": "R17",
+    "person_id": "P3",
+    "village": "V3",
+    "age_band": "65-74",
+    "service": "meal",
+    "month": "2026-10",
+    "amount_fen": 517
+  },
+  {
+    "row_id": "R18",
+    "person_id": "P4",
+    "village": "V1",
+    "age_band": "75+",
+    "service": "meal",
+    "month": "2026-10",
+    "amount_fen": 518
+  },
+  {
+    "row_id": "R19",
+    "person_id": "P5",
+    "village": "V2",
+    "age_band": "65-74",
+    "service": "meal",
+    "month": "2026-10",
+    "amount_fen": 519
+  },
+  {
+    "row_id": "R20",
+    "person_id": "P6",
+    "village": "V3",
+    "age_band": "75+",
+    "service": "visit",
+    "month": "2026-10",
+    "amount_fen": 520
+  },
+  {
+    "row_id": "R21",
+    "person_id": "P7",
+    "village": "V1",
+    "age_band": "65-74",
+    "service": "meal",
+    "month": "2026-10",
+    "amount_fen": 521
+  },
+  {
+    "row_id": "R22",
+    "person_id": "P8",
+    "village": "V2",
+    "age_band": "75+",
+    "service": "meal",
+    "month": "2026-10",
+    "amount_fen": 522
+  },
+  {
+    "row_id": "R23",
+    "person_id": "P9",
+    "village": "V3",
+    "age_band": "65-74",
+    "service": "meal",
+    "month": "2026-10",
+    "amount_fen": 523
+  },
+  {
+    "row_id": "R24",
+    "person_id": "P10",
+    "village": "V1",
+    "age_band": "75+",
+    "service": "visit",
+    "month": "2026-10",
+    "amount_fen": 524
+  },
+  {
+    "row_id": "R25",
+    "person_id": "P11",
+    "village": "V2",
+    "age_band": "65-74",
+    "service": "meal",
+    "month": "2026-10",
+    "amount_fen": 525
+  },
+  {
+    "row_id": "R26",
+    "person_id": "P12",
+    "village": "V3",
+    "age_band": "75+",
+    "service": "meal",
+    "month": "2026-10",
+    "amount_fen": 526
+  },
+  {
+    "row_id": "R27",
+    "person_id": "P13",
+    "village": "V1",
+    "age_band": "65-74",
+    "service": "meal",
+    "month": "2026-10",
+    "amount_fen": 527
+  },
+  {
+    "row_id": "R28",
+    "person_id": "P14",
+    "village": "V2",
+    "age_band": "75+",
+    "service": "visit",
+    "month": "2026-10",
+    "amount_fen": 528
+  }
+]

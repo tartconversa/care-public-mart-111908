@@ -1,0 +1,17 @@
+[
+  {
+    "village": "V1",
+    "month": "2026-10",
+    "complete": true
+  },
+  {
+    "village": "V2",
+    "month": "2026-10",
+    "complete": true
+  },
+  {
+    "village": "V3",
+    "month": "2026-10",
+    "complete": false
+  }
+]
